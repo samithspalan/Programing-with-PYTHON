@@ -1,3 +1,5 @@
+class Point:
+    pass
 def samePoint(p1, p2) :
     return (p1.x == p2.x) and (p1.y == p2.y)
 p1 = Point()
